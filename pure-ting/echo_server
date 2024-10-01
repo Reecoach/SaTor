@@ -1,0 +1,53 @@
+#!/usr/bin/python
+
+import socket 
+import sys
+import datetime
+from struct import pack, unpack
+
+response = pack('!c',b'!')
+
+host = '' 
+port = None
+try:
+    with open('./tingrc') as f:
+        r = f.readlines()
+        for l in r:
+            if "DestinationPort" in l:
+                port = int(l.strip().split(" ")[1])
+                break
+except:
+    pass
+
+if len(sys.argv) > 1:
+    port = int(sys.argv[1])
+if not port:
+    exit("Can't find a tingrc file and no port specified.")
+backlog = 1
+size = 1
+debug = False
+
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
+s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+s.bind((host,port)) 
+s.listen(backlog) 
+
+print("TCP echo server listening on port " + str(port)) 
+
+while 1: 
+    try:
+        client, address = s.accept()
+        if debug:
+            print("Connection accepted from " + str(address))
+            sys.stdout.flush()
+        data = client.recv(size)
+        while (data and (unpack('!c',data) != 'X')): 
+            client.send(data) 
+            data = client.recv(size) 
+        client.close()
+        if debug:
+            print("Connection closed.")
+            sys.stdout.flush()
+    except socket.error as e:
+        if debug:
+            print("Socket Error: " + str(e))

@@ -1,0 +1,19 @@
+Nickname SaTorMiddleLondon
+
+# Optional: Contact information (for issues and updates about your relay)
+# ContactInfo MyEmail@example.com
+
+# Relay Bandwidth Limits (example: 50 KB/s for average, 100 KB/s for burst)
+RelayBandwidthRate 80 KB
+RelayBandwidthBurst 80 KB
+
+# Specify the relay port for Tor. Default is 9001, but you can change this if needed.
+ORPort 9000
+SocksPort 0
+
+# Middle-only relay configuration
+ExitRelay 0
+ExitPolicy reject *:*
+# By default, Tor will decide if the relay should act as a guard; prevent this:
+# GuardRelay 0 
+

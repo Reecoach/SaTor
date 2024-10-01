@@ -1,0 +1,24 @@
+from stem.descriptor import DocumentHandler
+from stem.descriptor.remote import DescriptorDownloader
+from stem.descriptor import DocumentHandler, parse_file
+
+if __name__ == "__main__":
+    if_download = False
+    start_point_fp = "25A3C3212235D869078C6782E81EEA712D8B6E9D"
+    if if_download:
+        downloader = DescriptorDownloader()
+        consensus = downloader.get_consensus(document_handler = DocumentHandler.DOCUMENT).run()[0]
+
+        with open('consensus', 'w') as descriptor_file:
+            descriptor_file.write(str(consensus))
+
+    consensus = next(parse_file('consensus', descriptor_type = 'network-status-consensus-3 1.0', document_handler = DocumentHandler.DOCUMENT))
+    ting_pairs = list()
+    
+    for fingerprint, relay in consensus.routers.items():
+        ting_pair = start_point_fp + ' ' + fingerprint
+        ting_pairs.append(ting_pair)
+    
+    with open('relay_pairs', 'w') as rp_f:
+        rp_f.write('\n'.join(ting_pairs))
+
