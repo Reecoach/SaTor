@@ -119,7 +119,7 @@ Each dataset is stored in `.ndjson` format.
 
 Each line corresponds to a single Tor circuit consisting of three relays:
 
-```json
+```text
 [
   [
     "AE68ACD0266C414CDED4338D10BCDF17081563BC",                  # Fingerprint
