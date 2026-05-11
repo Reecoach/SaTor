@@ -9,7 +9,7 @@ This repository contains the artifact for the IEEE S&P 2026 paper:
 The repository currently contains two components:
 
 - **Measurement** — real-world Tor latency measurement datasets collected from a dual-homed testbed with both terrestrial and satellite connectivity
-- **Simulator** — a programmatic framework for estimating terrestrial and satellite routing latency between any pair of Tor relays (or geographic coordinates)
+- **Simulator** — a programmatic framework for estimating terrestrial and satellite routing latency between any pair of Tor relays (or arbitrary geographic coordinates)
 
 # Measurement
 
