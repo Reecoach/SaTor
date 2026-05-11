@@ -37,7 +37,7 @@ In each round:
 
 After one round finishes, the next round begins. The measurement campaign lasted for approximately one month.
 
-After filtering circuits with excessive failures or insufficient valid measurements, the final dataset contains 6,897 relatively stable Tor circuits.
+After filtering circuits with excessive failures or insufficient valid measurements, the final dataset contains 6,896 relatively stable Tor circuits.
 
 # Simulator
 
