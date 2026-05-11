@@ -1,43 +1,163 @@
-# SaTor Simulator 
+# SaTor
 
 This repository contains the artifact for the IEEE S&P 2026 paper:
 
 > **“SaTor: Exploring Satellite Routing in Tor to Reduce Latency.”**
 
-**SaTor** proposes integrating satellite routing technologies into the Tor network to reduce latency without strengthening global adversary.
- This repository provides a programmatic simulator that models and estimates the latency of the proposed SaTor architecture.
+**SaTor** explores the integration of satellite routing technologies into the Tor network to reduce its transmission latency without strengthening the global adversary.
 
-## Overview
+The repository currently contains two components:
 
-SaTor Simulator enables latency estimation under different routing scenarios by integrating satellite and terrestrial network characteristics. 
+- **Measurement** — real-world Tor latency measurement datasets collected from a dual-homed testbed with both terrestrial and satellite connectivity
+- **Simulator** — a programmatic framework for estimating terrestrial and satellite routing latency between any pair of Tor relays (or geographic coordinates)
 
-It can reproduce experimental results from the paper, or serve as a tool for future research.
+# Measurement
+
+The `measurement/` directory contains the real-world measurement datasets.
+
+## Measurement Testbed
+
+We deploy a dual-homed measurement testbed located in Waterloo, Canada, equipped with both:
+
+- a conventional terrestrial Internet connection
+- a Starlink satellite connection
+
+Using this testbed as the client origin, we construct Tor circuits toward relays distributed worldwide through both interfaces, and compare their latency characteristics to study the potential latency advantages of satellite routing in live Tor.
+
+## Measurement Methodology
+
+Measurements are conducted in multiple rounds.
+
+In each round:
+
+1. All candidate Tor relays are traversed
+2. Tor circuits are constructed through both terrestrial and satellite interfaces
+3. Probe packets are sent at 1-second intervals 10 times
+4. 10 RTT samples are recorded for each circuit
+
+After one round finishes, the next round begins. The measurement campaign lasted for approximately one month.
+
+After filtering circuits with excessive failures or insufficient valid measurements, the final dataset contains 6,897 relatively stable Tor circuits.
+
+# Simulator
+
+The `simulator/` directory provides a programmatic framework for estimating latency under terrestrial and satellite routing scenarios.
 
 ## Key Features
 
-* **Generic Latency Simulation:** simulates both satellite and terrestrial communication latencies between any two Tor relays (or arbitrary geographic coordinates)
-* **Flexible Routing Models:** supports multiple routing modes including *single bent-pipe satellite link, ISL-enabled satellite routing, and terrestrial-only routing*
-* **Temporal Variance:** introduces temporal variance through latency sampling to replicate realistic network dynamics
+- **Generic Latency Simulation:** simulates both satellite and terrestrial communication latencies between arbitrary Tor relays or geographic locations
+- **Flexible Routing Models:** supports multiple routing modes including single bent-pipe satellite routing, ISL-enabled satellite routing, and terrestrial-only routing
+- **Temporal Variance:** introduces temporal variance through latency sampling to emulate realistic network dynamics
+
+## Simulator Structure
+
+```text
+simulator/
+├── data/
+│   ├── constellation/     # Satellite constellation datasets
+│   ├── distribution/      # Propagation speed distributions
+│   ├── simulation/        # Simulation outputs
+│   └── tor/               # Tor circuit datasets
+│
+├── CONSTANTS.py
+├── net_tools.py
+├── simulation.py
+├── utils.py
+├── run.py
+└── requirements.txt
+```
+
+## Simulation Data
+
+The simulator relies on several categories of datasets located under `simulator/data/`.
+
+### Satellite Constellation Data
+
+Located in:
+
+```text
+data/constellation/
+```
+
+This dataset includes satellite constellation information used for orbit computation and routing simulation, including:
+
+* Satellite TLEs
+  obtained from:
+  [https://celestrak.org/NORAD/elements/gp.php?GROUP=starlink&FORMAT=tle](https://celestrak.org/NORAD/elements/gp.php?GROUP=starlink&FORMAT=tle)
+
+* Ground stations and PoPs
+  obtained from:
+  [https://pan.uvic.ca/~clarkzjw/starlink/](https://pan.uvic.ca/~clarkzjw/starlink/)
+
+### Propagation Speed Distributions
+
+Located in:
+
+```text
+data/distribution/
+```
+
+This dataset contains probabilistic propagation speed distributions for both terrestrial and satellite routing.
+
+The propagation speed approximation datasets are derived from the LENS dataset: [https://github.com/clarkzjw/LENS](https://github.com/clarkzjw/LENS)
+
+
+
+### Tor Circuit Dataset
+
+Located in:
+
+```text
+data/tor/
+```
+
+This dataset contains 100k Tor circuits used for simulation experiments.
+
+The circuits are collected using an instrumented Tor client.
+
+Each dataset is stored in `.ndjson` format.
+
+Each line corresponds to a single Tor circuit consisting of three relays:
+
+```json
+[
+  [
+    "AE68ACD0266C414CDED4338D10BCDF17081563BC",                  # Fingerprint
+    "peanut",                                                    # Relay nickname
+    "94.23.88.117",                                              # Relay IP address
+    8080,                                                        # ORPort
+    50.6925,                                                     # Geographic latitude
+    3.17828,                                                     # Geographic longitude
+    "12, Place de la Liberté, Roubaix, Hauts-de-France, France", # Approximate geographic address
+    "FR"                                                         # Country code
+  ],
+  ...
+]
+```
+**Note:**  
+Although primarily designed for Tor circuit simulation, the simulator can also estimate latency between arbitrary geographic locations by simply providing valid latitude and longitude coordinates.
 
 ## Execution Environment
 
 All experiments in the paper were conducted under the following environment.
 
 ### Hardware
-- CPU: x86_64 multi-core CPU (24 logical cores)
-- Memory: 128 GB RAM
-- GPU: Not required
+
+* CPU: x86_64 multi-core CPU (24 logical cores)
+* Memory: 128 GB RAM
+* GPU: Not required
 
 ### Software
-- OS: Ubuntu Linux 22.04 LTS (64-bit)
-- Python: 3.12
-- Required Python packages: see `requirements.txt`
+
+* OS: Ubuntu Linux 22.04 LTS (64-bit)
+* Python: 3.12
+* Required Python packages: see `requirements.txt`
 
 ## Installation and Setup
 
 Clone the repository and create a Python virtual environment:
 
-```
+```bash
 git clone https://github.com/Reecoach/SaTor.git
 cd SaTor/simulator/
 
@@ -48,56 +168,40 @@ source .sator/bin/activate
 pip install -r requirements.txt
 ```
 
-## Usage 
+## Usage
 
 Run the simulator with default configurations:
 
-```
+```bash
 python3 run.py
 ```
 
-Simulation results will be logged in: data/simulation/
+Simulation results will be stored under:
 
-## Repository Structure
-
-```
-SaTor/
- └── simulator/
-     ├── data/                       
-     │   ├── constellation/          # Starlink constellation data (ground stations, PoPs, TLEs)
-     │   ├── distribution/           # Satellite and terrestrial traffic speed distributions
-     │   ├── simulation/             # Output directory for simulation results
-     │   └── tor/                    
-     │       └── circuits/           # Predefined Tor circuits (will be decomposed into hop-level in simulation)
-     │
-     ├── CONSTANTS.py                # Global constants
-     ├── net_tools.py                # Online retrieval of network-related data (TLE files and Tor consensus)
-     ├── simulation.py               # Core simulation logic
-     ├── utils.py                    # Common latency computation tools
-     ├── run.py                      # entry point
-     └── requirements.txt            
+```text
+data/simulation/
 ```
 
 ## Simulation Config
 
-The simulator is controlled by a configuration dictionary defined in `run.py`  
+The simulator is controlled by a configuration dictionary defined in `run.py`.
 
-It specifies routing modes, dataset paths, simulation ranges, and time settings, etc.
+It specifies routing modes, dataset paths, simulation ranges, and temporal settings.
 
-Below is the default configuration used in the paper experiments:
+Default Configuration Fields:
 
-| **Category**      | **Field**                                 | **Description**                                              |
-| ----------------- | ----------------------------------------- | ------------------------------------------------------------ |
-| **Routing**       | `routing_strategy`                        | Selects the routing mode: `"single-bent-pipe"` (single satellite hop), `"ISL-enabled"` (multi-hop inter-satellite routing), or `"terrestrial"` (ground-only). |
-| **Paths**         | `speed_sat`, `speed_ter`                  | ECDFs describing satellite and terrestrial link speeds.      |
-|                   | `circuits`                                | Input Tor circuit dataset in NDJSON format. Two datasets are provided: a **100k-circuit** dataset generated using the default Tor path selection algorithm, and a **7k-circuit** dataset initiating from **Waterloo, Canada**. |
-|                   | `tle`, `ground_stations`, `pops`          | Starlink constellation data used for orbit and path computation. |
-|                   | `out_dir`                                 | Output directory for simulation results.                     |
-| **Dataset Range** | `start_circuit_id`, `end_circuit_id`      | Defines the range of circuits to simulate.                   |
-|                   | `circuit_group_size`                      | Number of circuits processed per batch; each batch produces a separate output file. |
-| **Time Window**   | `time_start`, `time_end`, `time_step_sec` | Defines the simulation period and temporal granularity (in seconds). |
-| **Execution**     | `clean_previous_results`                  | Controls output handling: `"overwrite"` starts a fresh run, `"resume"` appends results to existing files. |
-|                   | `parallel`                                | Configures multiprocessing and worker count. May show limited performance gains due to the **CPU-bound nature** of orbit and latency computations. |
+| Category      | Field                                     | Description                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------------- |
+| Routing       | `routing_strategy`                        | Selects the routing mode                          |
+| Paths         | `speed_sat`, `speed_ter`                  | Satellite and terrestrial propagation speed ECDFs |
+|               | `circuits`                                | Tor circuit dataset                               |
+|               | `tle`, `ground_stations`, `pops`          | Satellite constellation datasets                  |
+|               | `out_dir`                                 | Simulation output directory                       |
+| Dataset Range | `start_circuit_id`, `end_circuit_id`      | Circuit simulation range                          |
+|               | `circuit_group_size`                      | Batch size                                        |
+| Time Window   | `time_start`, `time_end`, `time_step_sec` | Simulation temporal granularity                   |
+| Execution     | `clean_previous_results`                  | Output handling strategy                          |
+|               | `parallel`                                | Multiprocessing configuration                     |
 
 ## Simulation Output Structure (`.ndjson`)
 
@@ -110,7 +214,7 @@ with open("data/simulation/sim.ndjson", 'r') as f:
         record_at_time_t = json.loads(line)
 ```
 
-In the output .ndjson file, the first line stores the simulation configuration (`CONFIG`), ensuring full reproducibility of the experiment; the subsequent each line corresponds to a specific time point in the simulation:
+In the output .ndjson file, the first line stores the simulation configuration (`CONFIG`). The subsequent each line corresponds to a specific time point in the simulation:
 
 ```yaml
 NDJSON File
@@ -182,8 +286,28 @@ Description of each field:
 | `path_distance` | float           | Total route distance (meters).                               |
 | `path_latency`  | float           | Total estimated end-to-end latency (seconds). Multiply by 2 to obtain RTT. |
 
-## Contact
+# Citation
+
+If you use this repository or datasets in your research, please cite:
+
+```bibtex
+@INPROCEEDINGS{,
+    author = { Li, Haozhi and Elahi, Tariq },
+    booktitle = { 2026 IEEE Symposium on Security and Privacy (SP) },
+    title = {{ SaTor: Exploring Satellite Routing in Tor to Reduce Latency }},
+    year = {2026},
+    ISSN = {2375-1207},
+    pages = {1261-1279},
+    doi = {10.1109/SP63933.2026.00068},
+    publisher = {IEEE Computer Society},
+    address = {Los Alamitos, CA, USA},
+    month = May
+}
+```
+
+# Contact
 
 For further questions, please contact:
-**Haozhi Li** (Beijing Institute of Technology)
+
+Haozhi Li (Beijing Institute of Technology)
 lihaozhi@bit.edu.cn
