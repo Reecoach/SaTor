@@ -1,0 +1,296 @@
+[
+    {
+        "name": "SEA -\u00a0STTLWAX1",
+        "lat": 47.6144489,
+        "lng": -122.3386777,
+        "alt": 0.0
+    },
+    {
+        "name": "ORD/CHI -\u00a0CHCOILX1",
+        "lat": 41.8760688,
+        "lng": -87.6316483,
+        "alt": 0.0
+    },
+    {
+        "name": "DEN -\u00a0DNVRCOX1",
+        "lat": 39.7456628,
+        "lng": -104.9957125,
+        "alt": 0.0
+    },
+    {
+        "name": "LAX -\u00a0LSANCAX1",
+        "lat": 34.047997,
+        "lng": -118.2556849,
+        "alt": 0.0
+    },
+    {
+        "name": "LGA/NYC -\u00a0NWYYNYX1",
+        "lat": 40.7198512,
+        "lng": -74.0043892,
+        "alt": 0.0
+    },
+    {
+        "name": "ATL -\u00a0ATLAGAX1",
+        "lat": 33.758575,
+        "lng": -84.3880016,
+        "alt": 0.0
+    },
+    {
+        "name": "DFW/DAL -\u00a0DLLSTXX1",
+        "lat": 32.8010115,
+        "lng": -96.8195697,
+        "alt": 0.0
+    },
+    {
+        "name": "MSP - MPLSMNX1",
+        "lat": 44.9714107,
+        "lng": -93.2548509,
+        "alt": 0.0
+    },
+    {
+        "name": "IAD/WAS - ASHNVAX2",
+        "lat": 39.015551,
+        "lng": -77.460349,
+        "alt": 0.0
+    },
+    {
+        "name": "MIA - MMMIFLX1",
+        "lat": 25.7824329,
+        "lng": -80.1931407,
+        "alt": 0.0
+    },
+    {
+        "name": "PHX - TMPEAZX1",
+        "lat": 33.3955428,
+        "lng": -111.9701203,
+        "alt": 0.0
+    },
+    {
+        "name": "SJC/SFO - SNJECAX1",
+        "lat": 37.241638,
+        "lng": -121.783323,
+        "alt": 0.0
+    },
+    {
+        "name": "SLC - SLTYUTX1",
+        "lat": 40.720861,
+        "lng": -111.985013,
+        "alt": 0.0
+    },
+    {
+        "name": "QRO/MEX -\u00a0QRTOMEX1",
+        "lat": 20.5669519,
+        "lng": -100.2566086,
+        "alt": 0.0
+    },
+    {
+        "name": "SLC2 - SLTYUTX1",
+        "lat": 40.480032,
+        "lng": -111.904533,
+        "alt": 0.0
+    },
+    {
+        "name": "BOG - BGTACOL1",
+        "lat": 4.6712121,
+        "lng": -74.1617196,
+        "alt": 0.0
+    },
+    {
+        "name": "SCL -\u00a0SNTOCHL1",
+        "lat": -33.3581747,
+        "lng": -70.6758799,
+        "alt": 0.0
+    },
+    {
+        "name": "GRU -\u00a0SPLOBRA1",
+        "lat": -23.49355,
+        "lng": -46.809461,
+        "alt": 0.0
+    },
+    {
+        "name": "FOR - FRTABRA1",
+        "lat": -3.735067,
+        "lng": -38.458034,
+        "alt": 0.0
+    },
+    {
+        "name": "LIM -\u00a0LIMAPER1",
+        "lat": -12.0889509,
+        "lng": -76.9731775,
+        "alt": 0.0
+    },
+    {
+        "name": "LOS -\u00a0LGOSNGA1",
+        "lat": 6.4495336,
+        "lng": 3.5884013,
+        "alt": 0.0
+    },
+    {
+        "name": "FRA -\u00a0FRNTDEU1",
+        "lat": 50.1196613,
+        "lng": 8.7346252,
+        "alt": 0.0
+    },
+    {
+        "name": "MAD -\u00a0MDRDESP1",
+        "lat": 40.4342057,
+        "lng": -3.6240396,
+        "alt": 0.0
+    },
+    {
+        "name": "LON/LHR -\u00a0LNDNGBR1",
+        "lat": 51.5114777,
+        "lng": -0.0012635,
+        "alt": 0.0
+    },
+    {
+        "name": "TYO/NRT -\u00a0TKYOJPN1",
+        "lat": 35.6877247,
+        "lng": 139.7644231,
+        "alt": 0.0
+    },
+    {
+        "name": "AKL - AKLNZL1",
+        "lat": -36.8493316,
+        "lng": 174.7654045,
+        "alt": 0.0
+    },
+    {
+        "name": "SYD -\u00a0SYDYAUS1",
+        "lat": -33.7850819,
+        "lng": 151.1312062,
+        "alt": 0.0
+    },
+    {
+        "name": "PER - PRTHAU1",
+        "lat": -31.8642727,
+        "lng": 115.8958668,
+        "alt": 0.0
+    },
+    {
+        "name": "CGK - JTNAIDN1",
+        "lat": -6.237865,
+        "lng": 106.823498,
+        "alt": 0.0
+    },
+    {
+        "name": "MNL - MNLAPH1",
+        "lat": 14.564626,
+        "lng": 121.021875,
+        "alt": 0.0
+    },
+    {
+        "name": "SIN - SNGESGP1",
+        "lat": 1.2952307,
+        "lng": 103.7898448,
+        "alt": 0.0
+    },
+    {
+        "name": "EZE - BNSSARG1",
+        "lat": -34.589928,
+        "lng": -58.466912,
+        "alt": 0.0
+    },
+    {
+        "name": "SOF - SFIABGR1",
+        "lat": 42.7027903,
+        "lng": 23.3062386,
+        "alt": 0.0
+    },
+    {
+        "name": "WAW - WRSWPOL1",
+        "lat": 52.227354,
+        "lng": 21.003357,
+        "alt": 0.0
+    },
+    {
+        "name": "MXP - MLNNITA1",
+        "lat": 45.4755627,
+        "lng": 9.1037672,
+        "alt": 0.0
+    },
+    {
+        "name": "DOH - DOHAQAT1",
+        "lat": 25.5502333,
+        "lng": 51.4391625,
+        "alt": 0.0
+    },
+    {
+        "name": "YYC - CLGYCAN1",
+        "lat": 50.976973,
+        "lng": -113.9566777,
+        "alt": 0.0
+    },
+    {
+        "name": "NBO - NRBIKEN1",
+        "lat": -1.349897,
+        "lng": 36.748969,
+        "alt": 0.0
+    },
+    {
+        "name": "JNB - JHNGZAF1",
+        "lat": -26.137957,
+        "lng": 28.197517,
+        "alt": 0.0
+    },
+    {
+        "name": "MEL - MLBEAUS1",
+        "lat": -37.8235284,
+        "lng": 144.9156203,
+        "alt": 0.0
+    },
+    {
+        "name": "CHC - CHRHNZL1",
+        "lat": -43.531563,
+        "lng": 172.635461,
+        "alt": 0.0
+    },
+    {
+        "name": "MCT - MSCTOM1",
+        "lat": 23.726849,
+        "lng": 57.7940688,
+        "alt": 0.0
+    },
+    {
+        "name": "BNE - BRSEAUS1",
+        "lat": -27.4538615,
+        "lng": 153.033214,
+        "alt": 0.0
+    },
+    {
+        "name": "GUA - GTMYGTM1",
+        "lat": 14.655149,
+        "lng": -90.544525,
+        "alt": 0.0
+    },
+    {
+        "name": "MTR - MNTLCAN1",
+        "lat": 45.4972023,
+        "lng": -73.5704739,
+        "alt": 0.0
+    },
+    {
+        "name": "SUB - SRBAIND2",
+        "lat": -7.273023,
+        "lng": 112.74282,
+        "alt": 0.0
+    },
+    {
+        "name": "BOM - (pending)",
+        "lat": 19.110795,
+        "lng": 72.901065,
+        "alt": 0.0
+    },
+    {
+        "name": "BSB - (pending)",
+        "lat": -15.8292545,
+        "lng": -47.8452446,
+        "alt": 0.0
+    },
+    {
+        "name": "DAC - (pending)",
+        "lat": 24.0649646,
+        "lng": 90.2360319,
+        "alt": 0.0
+    }
+]

@@ -1,0 +1,3194 @@
+[
+    {
+        "continent": "Africa",
+        "name": "Lekki, NG",
+        "lat": 6.44952617548687,
+        "lng": 3.58773389218748,
+        "alt": 0.0
+    },
+    {
+        "continent": "Africa",
+        "name": "Ikire, NG",
+        "lat": 7.3875,
+        "lng": 4.2124,
+        "alt": 0.0
+    },
+    {
+        "continent": "Africa",
+        "name": "Accra, GH",
+        "lat": 5.80399,
+        "lng": -0.090984,
+        "alt": 0.0
+    },
+    {
+        "continent": "Africa",
+        "name": "Nairobi, KE - Cabanas | Mega",
+        "lat": -1.329119,
+        "lng": 36.88643,
+        "alt": 0.0
+    },
+    {
+        "continent": "Africa",
+        "name": "Nairobi, KE - Karen | Mega",
+        "lat": -1.3502338,
+        "lng": 36.750317,
+        "alt": 0.0
+    },
+    {
+        "continent": "Africa",
+        "name": "Okun Ajah (Lagos), NG | Mega",
+        "lat": 6.425758,
+        "lng": 3.645496,
+        "alt": 0.0
+    },
+    {
+        "continent": "Africa",
+        "name": "Sagamu, Ogun, NG",
+        "lat": 6.8655,
+        "lng": 3.647,
+        "alt": 0.0
+    },
+    {
+        "continent": "Africa",
+        "name": "Port Harrcourt, Rivers, NG",
+        "lat": 4.8335,
+        "lng": 7.0401,
+        "alt": 0.0
+    },
+    {
+        "continent": "Africa",
+        "name": "Lobatse, BW",
+        "lat": -25.241,
+        "lng": 25.67,
+        "alt": 0.0
+    },
+    {
+        "continent": "Africa",
+        "name": "Matola, MZ | Mega",
+        "lat": -25.920692,
+        "lng": 32.415005,
+        "alt": 0.0
+    },
+    {
+        "continent": "Africa",
+        "name": "Gaborone, BW | Mega",
+        "lat": -24.587645,
+        "lng": 25.911362,
+        "alt": 0.0
+    },
+    {
+        "continent": "Africa",
+        "name": "Thika, KE | Mega",
+        "lat": -1.0414784,
+        "lng": 37.102569,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Akita, JP",
+        "lat": 39.63828,
+        "lng": 140.06466,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Hitachinaka, JP",
+        "lat": 36.38673,
+        "lng": 140.61372,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Otaru, JP",
+        "lat": 43.173215,
+        "lng": 141.258373,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Yamaguchi, JP",
+        "lat": 34.2171,
+        "lng": 131.55566,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Suva, FJ",
+        "lat": -18.12915,
+        "lng": 178.46767,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Awarua, NZ",
+        "lat": -46.530531,
+        "lng": 168.383076,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Cromwell, NZ",
+        "lat": -45.061066,
+        "lng": 169.192756,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Hinds, NZ",
+        "lat": -44.007406,
+        "lng": 171.571735,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Cleavdon, NZ",
+        "lat": -36.9897,
+        "lng": 175.05544,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Te Hana, NZ",
+        "lat": -36.23673,
+        "lng": 174.51211,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Puwera, NZ",
+        "lat": -35.7935,
+        "lng": 174.30075,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Toonpan, QLD, AU",
+        "lat": -19.51872,
+        "lng": 146.87371,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Willows. QLD, AU",
+        "lat": -23.66665,
+        "lng": 147.5025,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Pimba, SA, AU (GSN#3023)",
+        "lat": -31.2507,
+        "lng": 136.80107,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Boorowa, NSW, AU (GSN#55)",
+        "lat": -34.46214,
+        "lng": 148.70558,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Wagin, WA, AU (GSN#3002)",
+        "lat": -33.30829,
+        "lng": 117.34339,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Calrossie, NSW, AU",
+        "lat": -29.0579,
+        "lng": 150.04031,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Merredin, WA, AU",
+        "lat": -31.49485,
+        "lng": 118.27765,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Cataby, WA, AU",
+        "lat": -30.84826,
+        "lng": 115.61927,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Ki Ki, SA, AU",
+        "lat": -35.57172,
+        "lng": 139.8174,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Torrumbarry, VIC, AU",
+        "lat": -36.02526,
+        "lng": 144.50011,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Cobargo, NSW, AU",
+        "lat": -36.38863,
+        "lng": 149.8914,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Bogantungan, QLD, AU",
+        "lat": -23.64682,
+        "lng": 147.29126,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Springbrook Creek, NSW, AU",
+        "lat": -30.43981,
+        "lng": 149.68385,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Bulla Bulling, WA, AU",
+        "lat": -31.02985,
+        "lng": 120.81962,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Canyonleigh, NSW, AU | Mega",
+        "lat": -34.58374,
+        "lng": 150.15013,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Tea Gardens, NSW, AU",
+        "lat": -32.59316,
+        "lng": 152.10422,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Warra, QLD, AU",
+        "lat": -26.9079883,
+        "lng": 150.8916042,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Sellheim, QLD, AU",
+        "lat": -19.999722,
+        "lng": 146.42166,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Angeles, PH",
+        "lat": 15.17087,
+        "lng": 120.505747,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Kendari, ID",
+        "lat": -3.977445,
+        "lng": 122.511309,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Anakie, VIC, AU",
+        "lat": -37.953169,
+        "lng": 144.328172,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Koonwarra, VIC, AU",
+        "lat": -38.51812,
+        "lng": 145.95145,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Nabiac, NSW, AU | Mega",
+        "lat": -32.097118,
+        "lng": 152.372562,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Bathurst, NSW, AU | Mega",
+        "lat": -33.436665,
+        "lng": 149.52242,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Majura, ACT, AU | Mega",
+        "lat": -35.318363,
+        "lng": 149.245865,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Singapore, SG | Mega",
+        "lat": 1.397598,
+        "lng": 103.83539,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Awaura, NZ - TT&C (AW1)",
+        "lat": -46.52887,
+        "lng": 168.381121,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Broken Hill, NSW, AU (GSN#56)",
+        "lat": -31.99829,
+        "lng": 141.4411,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Petra Jaya, MY",
+        "lat": 1.606503,
+        "lng": 110.340002,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Cikarang Barat, ID - Almat GW | Mega",
+        "lat": -6.306293,
+        "lng": 107.096755,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Palangka Raya, ID",
+        "lat": -2.21866,
+        "lng": 113.925406,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Macquarie Park, NSW, AU | Mega",
+        "lat": -33.785441,
+        "lng": 151.131806,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Augusta, WA, AU",
+        "lat": -34.3172547,
+        "lng": 115.150002,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Merredin, WA, AU | Mega",
+        "lat": -31.495634,
+        "lng": 118.283286,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Terang, VIC, AU | Mega",
+        "lat": -38.243179,
+        "lng": 142.92862,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Sale, VIC, AU | Mega",
+        "lat": -38.096672,
+        "lng": 147.09117,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Inglewood, QLD, AU | Mega",
+        "lat": -28.416463,
+        "lng": 151.094997,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Ningi, QLD, AU | Mega",
+        "lat": -27.068417,
+        "lng": 153.05476,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Harvey, WA, AU | Mega",
+        "lat": -33.06775,
+        "lng": 115.801861,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Malaga, WA, AU | Mega",
+        "lat": -31.864147,
+        "lng": 115.895866,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Darwin, NT, AU | Mega",
+        "lat": -12.432,
+        "lng": 130.884556,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Kiara, WA, AU | E-band only",
+        "lat": -31.880609,
+        "lng": 115.943371,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Harristown, QLD, AU | Mega",
+        "lat": -27.582083,
+        "lng": 151.915278,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Nueva Vizcaya (Province), PH",
+        "lat": 16.423,
+        "lng": 121.114,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Quezon (province), PH",
+        "lat": 13.953,
+        "lng": 121.699,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Cebu(?), PH",
+        "lat": 10.296,
+        "lng": 123.922,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Kuala Lumpur(?), MY",
+        "lat": 3.0203,
+        "lng": 101.3666,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Mumbai, IN",
+        "lat": 19.126,
+        "lng": 72.904,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Pune, IN",
+        "lat": 18.535,
+        "lng": 73.786,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Indore, IN",
+        "lat": 22.678,
+        "lng": 75.86,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Cleavedon, NZ | Mega",
+        "lat": -36.98995,
+        "lng": 175.05565,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Te Hana, NZ | Mega",
+        "lat": -36.23683,
+        "lng": 174.512691,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Da Nang, VT",
+        "lat": 15.9792,
+        "lng": 108.298,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Port Melbourne, VIC, AU | Mega",
+        "lat": -37.823009,
+        "lng": 144.91539,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "West Footscray, VIC, AU | Mega",
+        "lat": -37.803925,
+        "lng": 144.8644,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Gazipur, BD | Mega",
+        "lat": 24.067277,
+        "lng": 90.230129,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Rajshahi, BD | Mega",
+        "lat": 24.371136,
+        "lng": 88.560592,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Jashore, BD",
+        "lat": 23.1575,
+        "lng": 89.2215,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Betbunia(?), BD",
+        "lat": 22.5476,
+        "lng": 91.9959,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Ho Chi Minh - Hi-Tech Park, VT",
+        "lat": 10.848559,
+        "lng": 106.800748,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Ho Chi Minh - Tan Huan, VT",
+        "lat": 10.7564,
+        "lng": 106.7484,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Makassar, ID",
+        "lat": -5.173028,
+        "lng": 119.43325,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Warragul, VIC, AU | E-only",
+        "lat": -38.15073,
+        "lng": 145.894607,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Kilmore, VIC, AU | E-only - Ogradys Road GW",
+        "lat": -37.303661,
+        "lng": 144.996023,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Hume, ACT, AU | E-only - Raws Crescent GW",
+        "lat": -35.394932,
+        "lng": 149.166751,
+        "alt": 0.0
+    },
+    {
+        "continent": "APAC",
+        "name": "Macquire Park, NSW, AU | Mega",
+        "lat": -33.784534,
+        "lng": 151.12022,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Savanna, OK | Mega",
+        "lat": 34.7893055555556,
+        "lng": -95.8765,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Savannah, TN | Mega",
+        "lat": 35.1595,
+        "lng": -88.0613056,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "York, PA | Mega",
+        "lat": 39.9691111,
+        "lng": -76.7230278,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Debeque, CO | Mega",
+        "lat": 39.28885,
+        "lng": -108.20501,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Baxley, GA / Surrency, GA | Mega",
+        "lat": 31.6821667,
+        "lng": -82.2689722,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Hillsboro, TX | Mega",
+        "lat": 32.0044722,
+        "lng": -97.06325,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Marshall, TX | Mega",
+        "lat": 32.53225,
+        "lng": -94.4303056,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Prosser, WA | Mega",
+        "lat": 46.1268611111111,
+        "lng": -119.684,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Redmond, WA | Mega",
+        "lat": 47.6962777777778,
+        "lng": -122.035305555556,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Arlington, OR | Mega",
+        "lat": 45.6255277777778,
+        "lng": -120.174777777778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Blountsville, AL | Mega",
+        "lat": 34.0984444,
+        "lng": -86.5785278,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Angola, IN | Mega",
+        "lat": 41.6355278,
+        "lng": -84.974,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Des Moines, NM | Mega",
+        "lat": 36.69751,
+        "lng": -103.79202,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Brunswick, ME | Mega",
+        "lat": 43.8960833,
+        "lng": -69.9234444,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Romulus, NY | Mega",
+        "lat": 42.7881111,
+        "lng": -76.8633056,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Roberts, WI | Mega",
+        "lat": 44.9410278,
+        "lng": -92.5160278,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Mt Ayr, IN | Mega",
+        "lat": 40.9264444,
+        "lng": -87.2953611,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Inman, KS | Mega",
+        "lat": 38.229,
+        "lng": -97.9219722,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Kenansville, FL | Mega",
+        "lat": 27.8760056,
+        "lng": -81.0304861,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Arvin, CA | Mega",
+        "lat": 35.1620556,
+        "lng": -118.8783611,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Elkton, MD | Mega",
+        "lat": 39.6308745,
+        "lng": -75.9096542,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Anderson, SC | Mega",
+        "lat": 34.4446944,
+        "lng": -82.6708333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Port Matilda, PA | Mega",
+        "lat": 40.8061944444444,
+        "lng": -77.9959444444444,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Sheffield, IL | Mega",
+        "lat": 41.3612222,
+        "lng": -89.7433056,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Clinton, IL | Mega",
+        "lat": 40.1764722,
+        "lng": -88.8736667,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Charleston, OR / Bandon, OR | Mega",
+        "lat": 43.2477105,
+        "lng": -124.3839881,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "New Braunfels, TX | Mega",
+        "lat": 29.7840556,
+        "lng": -98.050778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Tionesta, CA / Tulake, CA",
+        "lat": 41.644,
+        "lng": -121.329972222222,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Atlanta, GA | E-band",
+        "lat": 33.73775,
+        "lng": -84.974,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Benkelman, NE | Mega",
+        "lat": 40.1049444,
+        "lng": -101.51025,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Sunset, TX | E-Band",
+        "lat": 33.4485415,
+        "lng": -97.7767442,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Phoenix, AZ | E-Band",
+        "lat": 33.6851385,
+        "lng": -112.0973229,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Corpus Christi, TX | Mega",
+        "lat": 27.7931087,
+        "lng": -97.4519272,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Salem, OR | E-Band",
+        "lat": 44.9452748,
+        "lng": -122.8885664,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Kiowa, CO | E-Band",
+        "lat": 39.2919558,
+        "lng": -104.5052118,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Piscataway, NJ | E-Band",
+        "lat": 40.54335,
+        "lng": -74.49797,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Pine Valley, CA | E-Band",
+        "lat": 32.70139,
+        "lng": -116.36509,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Chico, CA | Mega",
+        "lat": 39.77536,
+        "lng": -121.91987,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Niland, CA | Mega",
+        "lat": 33.2204867,
+        "lng": -115.4668146,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Cal-Nev-Air, NV | E-Band",
+        "lat": 35.2988613,
+        "lng": -114.8746214,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Hawthorne, CA #2",
+        "lat": 33.9201458,
+        "lng": -118.3322165,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Olympia, WA",
+        "lat": 46.9155278,
+        "lng": -122.8135278,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Richardson, TX",
+        "lat": 32.9654167,
+        "lng": -96.7125556,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Fort Lauderdale, FL",
+        "lat": 26.1908611111111,
+        "lng": -80.1930833333333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Norcross, GA",
+        "lat": 33.9549722,
+        "lng": -84.1979722,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Anchorage, AK",
+        "lat": 61.1858611,
+        "lng": -149.8768889,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "The Dalles, OR",
+        "lat": 45.6306111111111,
+        "lng": -121.203666666667,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Charleston, SC",
+        "lat": 33.0602944444444,
+        "lng": -80.0382305555556,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Columbus, OH",
+        "lat": 40.062602,
+        "lng": -82.771037,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Tumon, GU",
+        "lat": 13.5028056,
+        "lng": 144.8051944,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Molokai, HI",
+        "lat": 21.1127,
+        "lng": -157.06323,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Arbuckle, CA",
+        "lat": 39.057,
+        "lng": -122.06,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Springer, OK",
+        "lat": 34.2685,
+        "lng": -97.2131666666667,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Robertsdale, AL",
+        "lat": 30.567,
+        "lng": -87.646,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Tracy City, TN",
+        "lat": 35.19725,
+        "lng": -85.666,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Gaffney, SC",
+        "lat": 34.9853055555556,
+        "lng": -81.7330833333333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "North Bend, WA",
+        "lat": 47.4823888888889,
+        "lng": -121.762333333333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Des Moines, IA",
+        "lat": 41.5413055555556,
+        "lng": -93.8258055555555,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Cheyenne, WY",
+        "lat": 41.1270833333333,
+        "lng": -104.902416666667,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Quincy, WA",
+        "lat": 47.2378056,
+        "lng": -119.8891389,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "San Antonio, TX",
+        "lat": 29.4115556,
+        "lng": -98.8072778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Llano Grande, MX",
+        "lat": 19.25892,
+        "lng": -99.58115,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Tapachula, MX",
+        "lat": 14.7862,
+        "lng": -92.36717,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Merida, MX",
+        "lat": 21.007372,
+        "lng": -89.643944,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Pe\u00f1uelas, MX",
+        "lat": 21.73139,
+        "lng": -102.27531,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Cabo San Lucas, MX",
+        "lat": 22.91283,
+        "lng": -109.92577,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Charcas, MX",
+        "lat": 23.22612,
+        "lng": -100.97915,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "El Marques, MX",
+        "lat": 20.76082,
+        "lng": -100.33556,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Monterey, MX",
+        "lat": 25.77016,
+        "lng": -100.30188,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Mazahua, MX",
+        "lat": 16.60965,
+        "lng": -94.96423,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Lockport, NY",
+        "lat": 43.1665555555556,
+        "lng": -78.7551111111111,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Kuparuk, AK",
+        "lat": 70.3176667,
+        "lng": -148.9411944,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Ponce, PR",
+        "lat": 18.0619777777778,
+        "lng": -66.5478361111111,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Hawthorne, CA",
+        "lat": 33.9175,
+        "lng": -118.328111111111,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "McGregor, TX",
+        "lat": 31.4049167,
+        "lng": -97.4381389,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Boca Chica, TX",
+        "lat": 25.9906944,
+        "lng": -97.18275,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Fairbanks, AK",
+        "lat": 64.8051666666667,
+        "lng": -147.500222222222,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Bellingham, WA",
+        "lat": 48.774,
+        "lng": -122.4485833,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Greenville, PA",
+        "lat": 41.4335555555556,
+        "lng": -80.3332222222222,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Merrillan, WI",
+        "lat": 44.4063333333333,
+        "lng": -90.8142777777778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Conrad, MT",
+        "lat": 48.2033055555556,
+        "lng": -111.945277777778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Butte, MT",
+        "lat": 45.9240555555556,
+        "lng": -112.513194444444,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Roll, AZ",
+        "lat": 32.8155,
+        "lng": -113.798055555556,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Colburn, ID",
+        "lat": 48.34525,
+        "lng": -116.439333333333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Litchfield CT",
+        "lat": 41.5450277777778,
+        "lng": -73.3540277777778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Evanston, WY",
+        "lat": 41.0925,
+        "lng": -110.842611111111,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Santiago de los Caballeros, DO",
+        "lat": 19.48096,
+        "lng": -70.72656,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Lawrence, KS",
+        "lat": 39.0138888888889,
+        "lng": -95.1493888888889,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Loring, ME",
+        "lat": 46.9149166666667,
+        "lng": -67.9195277777778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Kalama, WA",
+        "lat": 46.0389722222222,
+        "lng": -122.808222222222,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Beekmantown, NY",
+        "lat": 44.7899722222222,
+        "lng": -73.48,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Panaca, NV",
+        "lat": 37.7836389,
+        "lng": -114.6926944,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Warren, MO",
+        "lat": 38.6351667,
+        "lng": -91.1160278,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Nemaha, NE",
+        "lat": 40.3336666666667,
+        "lng": -95.8152777777778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Manistique, MI",
+        "lat": 45.9086111111111,
+        "lng": -86.4835833333333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Slope County, ND",
+        "lat": 46.40793,
+        "lng": -103.114656,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Cass County, ND",
+        "lat": 47.1516944444444,
+        "lng": -97.4088888888889,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Sanderson TX",
+        "lat": 30.193753,
+        "lng": -102.889981,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Hitterdal, MN",
+        "lat": 46.979357,
+        "lng": -96.258413,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Vernon, UT",
+        "lat": 40.0762222222222,
+        "lng": -112.354722222222,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Punta Gorda, FL",
+        "lat": 27.0196667,
+        "lng": -81.7620278,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Dumas, TX",
+        "lat": 35.8079722222222,
+        "lng": -102.031861111111,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Mandale, NC",
+        "lat": 35.895778,
+        "lng": -79.226722,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Robbins, CA",
+        "lat": 38.875,
+        "lng": -121.707055555556,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Wise, NC",
+        "lat": 36.47114,
+        "lng": -78.17313,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Hamshire, TX",
+        "lat": 29.8598611111111,
+        "lng": -94.3123333333333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Marcell, MN",
+        "lat": 47.5931666666667,
+        "lng": -93.6925277777778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Hillman, MI",
+        "lat": 45.07325,
+        "lng": -83.9004166666667,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Broadview, IL",
+        "lat": 41.8548889,
+        "lng": -87.8588889,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Lunenberg, VT",
+        "lat": 44.4120277777778,
+        "lng": -71.7318333333333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Sullivan, ME",
+        "lat": 44.5309722222222,
+        "lng": -68.224,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Rolette, ND",
+        "lat": 48.6603611111111,
+        "lng": -99.8105277777778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Ketchikan, AK",
+        "lat": 55.3737,
+        "lng": -131.718988888889,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Nome, AK",
+        "lat": 64.5035,
+        "lng": -165.4283056,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Elbert, CO",
+        "lat": 39.292528,
+        "lng": -104.50475,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Frederick, MD",
+        "lat": 39.3969722222222,
+        "lng": -77.4366388888889,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Murrieta, CA",
+        "lat": 33.5321667,
+        "lng": -117.1796389,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Boydton, VA",
+        "lat": 36.6941944444444,
+        "lng": -78.3757222222222,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Wichita Falls, TX",
+        "lat": 33.85225,
+        "lng": -98.6041111111111,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Caleta, DO",
+        "lat": 18.45398,
+        "lng": -69.66174,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Marathon, ON, CA (GSN-19)",
+        "lat": 48.7253692,
+        "lng": -86.3745279,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Saguenay, QC, CA",
+        "lat": 48.3136647,
+        "lng": -70.9088518,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Sambro Creek, NS, CA (GSN-21)",
+        "lat": 44.4645332,
+        "lng": -63.6131209,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Toa Baja, PR",
+        "lat": 18.4310556,
+        "lng": -66.1920861,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Adelanto, CA | E-band",
+        "lat": 34.6023889,
+        "lng": -117.4545556,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "St Johns, NL, CA",
+        "lat": 47.560921,
+        "lng": -52.7754993,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "West Jordan, UT",
+        "lat": 40.6196667,
+        "lng": -111.9860556,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Perry, FL",
+        "lat": 30.061583,
+        "lng": -83.580528,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Dubuque, IA",
+        "lat": 42.444611,
+        "lng": -90.6785,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Willemstad, CW",
+        "lat": 12.097686,
+        "lng": -68.908109,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Oistins, BB",
+        "lat": 13.062759,
+        "lng": -59.537583,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Seatle, WA -\u00a0The Emerald City GW",
+        "lat": 47.614472,
+        "lng": -122.339,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Centennial, CO - The Centennial GW,",
+        "lat": 39.591889,
+        "lng": -104.846944,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Denver, CO - Iron Mountain GW",
+        "lat": 39.777528,
+        "lng": -104.968472,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Phoenix, AZ -\u00a0The X GW",
+        "lat": 33.684056,
+        "lng": -112.09825,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Atlanta, GA - The Hotlanta GW",
+        "lat": 33.733472,
+        "lng": -84.424639,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Goodyear, AZ -\u00a0Estrella Mountain GW",
+        "lat": 33.412128,
+        "lng": -112.412853,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Lisle, IL - The ChiTown GW",
+        "lat": 41.800642,
+        "lng": -88.096092,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Westbury NY -\u00a0Take Me Home GW",
+        "lat": 40.755856,
+        "lng": -73.55785,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Kent, WA -\u00a0The Cascade GW",
+        "lat": 47.421056,
+        "lng": -122.248139,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Minneapolis, MN - Winter is Coming GW",
+        "lat": 44.970889,
+        "lng": -93.254389,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Ft Lauderdale, FL - Miami Sloth GW",
+        "lat": 26.191106,
+        "lng": -80.193419,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Seattle, WA -\u00a0Seattle Freeze GW",
+        "lat": 47.583194,
+        "lng": -122.325111,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Miami, FL - Club Space GW",
+        "lat": 25.782647,
+        "lng": -80.193158,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Chicago, IL - Chicago Loop GW",
+        "lat": 41.876139,
+        "lng": -87.631944,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Ashburn, VA - The Ash Ketchum GW",
+        "lat": 39.015278,
+        "lng": -77.459722,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Highland Ranch, CO -\u00a0Highlands Ranch GW",
+        "lat": 39.55,
+        "lng": -105.033333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Egan, MN - The Boiler Room GW",
+        "lat": 44.839333,
+        "lng": -93.145639,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Los Angeles, CA -\u00a0Anotha One' in GW",
+        "lat": 33.924306,
+        "lng": -118.318444,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Shakopee, MN - The Let's Goooo GW",
+        "lat": 44.779667,
+        "lng": -93.462667,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Lindon, UT -\u00a0The Gong GW",
+        "lat": 40.332722,
+        "lng": -111.731167,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Richardson, TX - The Name Loading GW",
+        "lat": 32.964972,
+        "lng": -96.711833,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Denver, CO -\u00a0The LLAF GW",
+        "lat": 39.745667,
+        "lng": -104.995417,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Santa Clara, CA -\u00a0The Bang Bang Niner GW",
+        "lat": 37.399194,
+        "lng": -121.980333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Fair Park, UT -\u00a0The This is Fine GW",
+        "lat": 40.766917,
+        "lng": -111.921167,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "New York, NY -\u00a0The Shea GW",
+        "lat": 40.72,
+        "lng": -74.00475,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Chaska, MN -\u00a0The Sad Saturday GW",
+        "lat": 44.851,
+        "lng": -93.598,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "West Jordan, UT -\u00a0The Eye of Sauron GW",
+        "lat": 40.61975,
+        "lng": -111.986333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Dallas, TX -\u00a0Da PoP GW",
+        "lat": 32.799917,
+        "lng": -96.81825,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Broadview, IL - The fr fr GW",
+        "lat": 41.855028,
+        "lng": -87.858944,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Fralklin Park, IL - The WMV GW",
+        "lat": 41.928778,
+        "lng": -87.857444,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Brooklyn Park, MN - The Purple Rain GW",
+        "lat": 45.144028,
+        "lng": -93.385778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Ashland, IL - The Sea Monkey GW",
+        "lat": 41.841361,
+        "lng": -87.671111,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Northlake, IL - The StressX GW",
+        "lat": 41.920028,
+        "lng": -87.911333,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Sterling, VA - The Schedule Chicken GW",
+        "lat": 38.984992,
+        "lng": -77.423883,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Kauai, HI -\u00a0I am McLovin GW",
+        "lat": 21.999361,
+        "lng": -159.378028,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Douglas, WY -\u00a0I'm a Business, Man GW",
+        "lat": 42.740139,
+        "lng": -105.350417,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Wellington, VA - East Coast Bestest GW",
+        "lat": 38.777056,
+        "lng": -77.546583,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "San Jose, CA -\u00a0The Middle Out GW",
+        "lat": 37.242139,
+        "lng": -121.7815,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Villahermosa, MX",
+        "lat": 18.04083,
+        "lng": -92.93282,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Calverton, NY - Earth Go Hard GW",
+        "lat": 40.908914,
+        "lng": -72.797608,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Lynnwood, WA -\u00a0Mountain is Out GW",
+        "lat": 47.841694,
+        "lng": -122.300944,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Seattle, WA -The Kremwerk GW",
+        "lat": 47.619,
+        "lng": -122.336417,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Los Angeles, CA -\u00a0The Lebron GW",
+        "lat": 34.047861,
+        "lng": -118.255667,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Los Angeles, CA - Yet Another HT GW",
+        "lat": 33.924056,
+        "lng": -118.321028,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Dallas, TX - The Mavs GW",
+        "lat": 32.910778,
+        "lng": -96.871472,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Roll, AZ -\u00a0They See Me Rollin GW",
+        "lat": 32.815278,
+        "lng": -113.797389,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Lithia Springs, GA -\u00a0The Georgia Peaches GW",
+        "lat": 33.745917,
+        "lng": -84.5795,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Vernon, UT - The Pain Train GW",
+        "lat": 40.075694,
+        "lng": -112.354944,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Evanston, WY - The Thou Shall Not Pass GW",
+        "lat": 41.092306,
+        "lng": -110.842361,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Pott\u2019s Junction, GU - The Katu Gato Community GW",
+        "lat": 13.616361,
+        "lng": 144.858722,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Atlanta, GA - The Georgia Powerhouse GW",
+        "lat": 33.777556,
+        "lng": -84.416056,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Ashburn, VA - The Greedy Tortoise GW",
+        "lat": 39.021722,
+        "lng": -77.452806,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Grant District, WV - The Huntin Wabbits GW",
+        "lat": 38.977972,
+        "lng": -79.146556,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Sandston, VA - The Homie Keith GW",
+        "lat": 37.490139,
+        "lng": -77.246139,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Akron, OH - The All Gas No Brakes GW",
+        "lat": 41.057528,
+        "lng": -81.519917,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Myrtle Beach, SC - The Gone Golfing GW",
+        "lat": 33.709972,
+        "lng": -78.895833,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "San Jose, CA - The Walsh GW",
+        "lat": 37.370444,
+        "lng": -121.969167,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Tucson, AZ - The Bear Down GW",
+        "lat": 32.170139,
+        "lng": -110.957694,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Hawkins, TX - The Hawkins GW",
+        "lat": 32.613583,
+        "lng": -95.29975,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Thomaston, GA - The Blitz GW",
+        "lat": 32.947083,
+        "lng": -84.261806,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Chantilly, VA - The Willy Nilly Chantilly GW",
+        "lat": 38.910194,
+        "lng": -77.472722,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Virginia Beach, VA - The Lil b GW",
+        "lat": 36.783806,
+        "lng": -76.009278,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "North Miami, FL - The United Teleports GW",
+        "lat": 25.949611,
+        "lng": -80.191806,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Burbank, CA - The West Coast Best Coast GW",
+        "lat": 34.200111,
+        "lng": -118.343833,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Port St. Lucie, FL - The PSL GW",
+        "lat": 27.281278,
+        "lng": -80.483139,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Weehawken, NJ - The Cake Boss GW",
+        "lat": 40.761611,
+        "lng": -74.025278,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Gordon, GA - The Power Lines GW",
+        "lat": 32.841056,
+        "lng": -83.253833,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Atlanta, GA - The Limit of Physics GW",
+        "lat": 33.8955,
+        "lng": -84.45355,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Secaucus, NJ - The DAVI GW",
+        "lat": 40.785472,
+        "lng": -74.068611,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Mesa, AZ - The Booker GW",
+        "lat": 33.421167,
+        "lng": -111.85925,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Howell, UT - The Full Send GW",
+        "lat": 41.836639,
+        "lng": -112.435194,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Wellington, UT - The Utah Jazz GW",
+        "lat": 39.540083,
+        "lng": -110.692833,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Delta, UT - The Cosmic Ray GW",
+        "lat": 39.346083,
+        "lng": -112.589361,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "New York, NY - The New York, New Me GW",
+        "lat": 40.711278,
+        "lng": -74.001389,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "New York, NY - The Slice Slice Baby GW",
+        "lat": 40.717806,
+        "lng": -74.00825,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "San Jose, CA - The Definitely Not A Hawthorne GW",
+        "lat": 37.242194,
+        "lng": -121.784389,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Los Angeles, CA - The Send it! GW",
+        "lat": 34.058056,
+        "lng": -118.235417,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Marathon, FL - The Florida Keys GW",
+        "lat": 24.713444,
+        "lng": -81.087694,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Chattanooga, TN - The Shady\u2019s Corner GW",
+        "lat": 35.031667,
+        "lng": -85.2975,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Wise, VA - The Wise GW",
+        "lat": 36.977333,
+        "lng": -82.528,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Oxford, AL - The Super Speedway GW",
+        "lat": 33.593639,
+        "lng": -85.876833,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Miami, FL - ULTRA Are You Ready GW",
+        "lat": 25.7915,
+        "lng": -80.379694,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Tukwila, WA - The Tukwila Gateway",
+        "lat": 47.508889,
+        "lng": -122.299361,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Bellingham, WA - The Bellingham GW",
+        "lat": 48.774028,
+        "lng": -122.449111,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Fremont, CA - The Plaid Mode GW",
+        "lat": 37.492056,
+        "lng": -121.936722,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Punta Gorda, FL - The Florida Man GW",
+        "lat": 27.020028,
+        "lng": -81.763806,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Conrad, MT - The Rad GW",
+        "lat": 48.20325,
+        "lng": -111.946972,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Butte, MT - The Butte GW",
+        "lat": 45.924389,
+        "lng": -112.51327,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Boise, ID - The Boise GW",
+        "lat": 43.581083,
+        "lng": -116.289972,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Dubois, ID - The InRange GW",
+        "lat": 44.170361,
+        "lng": -112.225139,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Duluth, MN - The Superior GW",
+        "lat": 46.828083,
+        "lng": -92.130417,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Milwaukee, WI - The Cheese Head GW",
+        "lat": 43.15125,
+        "lng": -88.008778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Bridgewater, CT - The Algo of Power GW",
+        "lat": 41.545417,
+        "lng": -73.354389,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Edison, NJ - The Midnight Cowboy GW",
+        "lat": 40.521056,
+        "lng": -74.345111,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Cheyenne, WY - The Lunavi GW",
+        "lat": 41.130278,
+        "lng": -104.742083,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Elbert, CO - Untz Untz GW",
+        "lat": 39.291972,
+        "lng": -104.505222,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Watkins, CO - The Solar GW",
+        "lat": 39.75825,
+        "lng": -104.617028,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Irvine, CA - The Zot! Zot! Zot! GW",
+        "lat": 33.687222,
+        "lng": -117.847861,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Madera, CA - The Madera GW",
+        "lat": 36.858778,
+        "lng": -119.9105,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Boca Chica, TX - Stargate GW",
+        "lat": 25.9837441,
+        "lng": -97.1907243,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Queretaro, MX | Mega",
+        "lat": 20.57346,
+        "lng": -100.273996,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Ashburn VA - The Pew Pew GW",
+        "lat": 39.015667,
+        "lng": -77.464917,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Boucherville, QC, CA - Boucherville GW",
+        "lat": 45.566594,
+        "lng": -73.425442,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Kahnawake, QC, CA - Kahanawake GW",
+        "lat": 45.40165,
+        "lng": -73.6396,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Montreal, QC, CA - St Laurent GW",
+        "lat": 45.487636,
+        "lng": -73.742378,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Apple Hill, ON, CA",
+        "lat": 45.223467,
+        "lng": -74.763919,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Beekmantown, NY - Little GW That Could | Mega",
+        "lat": 44.79025,
+        "lng": -73.479444,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Anchorage, AK - Great Alaskan GW",
+        "lat": 61.18575,
+        "lng": -149.876389,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Dallas, TX - The First Rodeo | Mega",
+        "lat": 32.719528,
+        "lng": -96.761861,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Atlanta, GA - Ponce City Market GW",
+        "lat": 33.772222,
+        "lng": -84.365278,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Watonwan, MN - the La Salle GW | Mega",
+        "lat": 44.051506,
+        "lng": -94.534614,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Atlanta, GA - The Edged ATL1 GW",
+        "lat": 33.815056,
+        "lng": -84.460083,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "North Kansas City, MO - The BBQ GW",
+        "lat": 39.127156,
+        "lng": -94.579344,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Flushing NY - The Game Set Match GW",
+        "lat": 40.772,
+        "lng": -73.834778,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Brewster, WA - TT&C (BR1)",
+        "lat": 48.1486111111111,
+        "lng": -119.701138888889,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Staten Island, NY - The Staten Island GW",
+        "lat": 40.606806,
+        "lng": -74.17475,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Sainte-Catherine, QC, CA",
+        "lat": 45.3924611,
+        "lng": -73.5993194,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Markham, ON, CA",
+        "lat": 43.8386028,
+        "lng": -79.3177169,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Brooks, AB, CA",
+        "lat": 50.5701278,
+        "lng": -111.9419889,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Crossfield, AB, CA",
+        "lat": 51.4472056,
+        "lng": -114.0217306,
+        "alt": 0.0
+    },
+    {
+        "continent": "North America",
+        "name": "Vandenberg CA, US - The \"Vandenberg AFB\" GW",
+        "lat": 34.71925,
+        "lng": -120.532503,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Cama\u00e7ari, BR",
+        "lat": -12.74832,
+        "lng": -38.28305,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Guarapari, BR",
+        "lat": -20.5578,
+        "lng": -40.40863,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Itabora\u00ed, BR",
+        "lat": -22.69668,
+        "lng": -42.87279,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Jo\u00e3o C\u00e2mara, BR",
+        "lat": -5.54612,
+        "lng": -35.81701,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Luz, BR",
+        "lat": -19.80334,
+        "lng": -45.68113,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Montes Carlos, BR",
+        "lat": -16.68367,
+        "lng": -43.83329,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Mossor\u00f3, BR",
+        "lat": -5.15695,
+        "lng": -37.35373,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Passa Quatro, BR",
+        "lat": -22.34929,
+        "lng": -44.94544,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Porto Alegre, BR",
+        "lat": -29.9842,
+        "lng": -51.12088,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Presidente Prudente, BR",
+        "lat": -22.1461,
+        "lng": -51.47411,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Rio Negro, BR",
+        "lat": -26.08857,
+        "lng": -49.79286,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Santana de Parna\u00edba, BR",
+        "lat": -23.45641,
+        "lng": -46.94226,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "S\u00e3o Gon\u00e7alo do Amarante, BR",
+        "lat": -3.67468,
+        "lng": -39.10287,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Surubim, BR",
+        "lat": -7.85393,
+        "lng": -35.78008,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Uruguaiana, BR",
+        "lat": -29.76549,
+        "lng": -56.52698,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Manaus, BR",
+        "lat": -2.92674,
+        "lng": -59.99778,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Aracaju, BR",
+        "lat": -11.081214,
+        "lng": -37.146714,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Rio de Janeiro, BR",
+        "lat": -22.8110167,
+        "lng": -43.3511917,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Osasco, BR | Mega",
+        "lat": -23.490533,
+        "lng": -46.775014,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Rol\u00e2ndia, BR",
+        "lat": -23.337575,
+        "lng": -51.331039,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Santana de Parna\u00edba, BR - Equinix",
+        "lat": -23.466181,
+        "lng": -46.863256,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Fortaleza, BR | Mega",
+        "lat": -3.735322,
+        "lng": -38.461675,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Juazeiro do Norte. BR",
+        "lat": -7.2151194,
+        "lng": -39.3367222,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Nova Santa Rita, BR",
+        "lat": -29.8428556,
+        "lng": -51.2845,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Vinhedo, BR",
+        "lat": -23.0771472,
+        "lng": -47.0119861,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Imperatriz, BR | Mega",
+        "lat": -5.4249972,
+        "lng": -47.4754667,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Benevides, BR | Mega",
+        "lat": -1.359325,
+        "lng": -48.2582528,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Itaitinga, BR | Mega",
+        "lat": -3.8932222,
+        "lng": -38.5080833,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Lauro de Freitas, BR | Mega",
+        "lat": -12.8279778,
+        "lng": -38.3539833,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Barreira, BR | Mega",
+        "lat": -4.2869889,
+        "lng": -38.6492444,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Caucaia, BR | Mega",
+        "lat": -3.7563417,
+        "lng": -38.9379194,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Bras\u00edlia, BR",
+        "lat": -15.9440139,
+        "lng": -47.978775,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Quixad\u00e1, BR",
+        "lat": -4.9632222,
+        "lng": -39.0373333,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Cuiab\u00e1, BR",
+        "lat": -15.6599028,
+        "lng": -55.9829528,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Fortaleza-2, BR",
+        "lat": -3.7341694,
+        "lng": -38.4613333,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Puerto Montt, CL",
+        "lat": -41.48657,
+        "lng": -73.02337,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Puerto Saavedra, CL",
+        "lat": -38.81476,
+        "lng": -73.39724,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "San Clemente, CL",
+        "lat": -35.55593,
+        "lng": -71.3569,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Santa Elena, CL",
+        "lat": -29.99974,
+        "lng": -71.2582,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Caldera, CL",
+        "lat": -27.02,
+        "lng": -70.78797,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Noviciado, CL",
+        "lat": -33.39272,
+        "lng": -70.88325,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Punta Arenas, CL",
+        "lat": -52.93974,
+        "lng": -70.85045,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Willemstad, CW",
+        "lat": 12.097686,
+        "lng": -68.908109,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Medellin(?), CO",
+        "lat": 6.106,
+        "lng": -75.498,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Falda del Carmen (Cordoba), AR",
+        "lat": -31.52249,
+        "lng": -64.461,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "La Plata, Buenos Aires, AR",
+        "lat": -34.9213,
+        "lng": -57.9545,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Campana, Buenos Aires, AR",
+        "lat": -34.1531,
+        "lng": -58.9582,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Rio Negro, AR",
+        "lat": -40.3887,
+        "lng": -65.2023,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Salta, AR",
+        "lat": -24.8047,
+        "lng": -65.4424,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Chivilcoy, Buenos Aires, AR",
+        "lat": -34.9204,
+        "lng": -60.0677,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Mendoza, AR | Mega",
+        "lat": -32.931488,
+        "lng": -68.81049,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Buenos Aires-Technopolis, AR | Mega",
+        "lat": -34.563634,
+        "lng": -58.509623,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Bogota, CO",
+        "lat": 4.742491,
+        "lng": -74.144777,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Lima-2, PE",
+        "lat": -12.086933,
+        "lng": -76.975218,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Aquierpa, PE | Mega",
+        "lat": -16.470219,
+        "lng": -71.513401,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Piura, PE | Mega",
+        "lat": -5.159689,
+        "lng": -80.687549,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "San Bernardo, CL | Mega",
+        "lat": -33.660278,
+        "lng": -70.739639,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Limache, CL | Mega",
+        "lat": -32.973806,
+        "lng": -71.295694,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Pudahuel, CL | Mega",
+        "lat": -33.449139,
+        "lng": -70.850806,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Las Condes, CL | Mega",
+        "lat": -33.406611,
+        "lng": -70.492628,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Quilicura, CL | Mega",
+        "lat": -33.348669,
+        "lng": -70.702714,
+        "alt": 0.0
+    },
+    {
+        "continent": "South America",
+        "name": "Cabrero, CL | Mega",
+        "lat": -36.625333,
+        "lng": -72.176139,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Unalaska, AK, US",
+        "lat": 53.8602778,
+        "lng": -166.5048611,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Iqualuit, NU, CA",
+        "lat": 63.75817,
+        "lng": -68.53968,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Nauru, NR",
+        "lat": -0.52913,
+        "lng": 166.91773,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Cape Canaveral, FL, US - The Full Send GW",
+        "lat": 28.5434208,
+        "lng": -80.6666377,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Brucejack, BC, CA",
+        "lat": 56.465761,
+        "lng": -130.186728,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Lihir, PG",
+        "lat": -3.106,
+        "lng": 152.653,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Kuujjuaq, QC, CA",
+        "lat": 58.1097412,
+        "lng": -68.3958043,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Krosrae, Micronesia",
+        "lat": 5.3253902,
+        "lng": 163.0126326,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Kiribati",
+        "lat": 1.3323183,
+        "lng": 173.0040641,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Tuvalu, TV",
+        "lat": -8.5266967,
+        "lng": 179.192599,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Galapagos, EC",
+        "lat": -0.7451734,
+        "lng": -90.3154692,
+        "alt": 0.0
+    },
+    {
+        "continent": "Community Gateways",
+        "name": "Kigali, RW",
+        "lat": -1.9445274,
+        "lng": 30.0896123,
+        "alt": 0.0
+    },
+    {
+        "continent": "Middle East",
+        "name": "Blue City, OM",
+        "lat": 23.744798,
+        "lng": 57.809288,
+        "alt": 0.0
+    },
+    {
+        "continent": "Middle East",
+        "name": "Blue City, OM | Mega expansion",
+        "lat": 23.744518,
+        "lng": 57.80947,
+        "alt": 0.0
+    },
+    {
+        "continent": "Middle East",
+        "name": "Umm Qarn, QA | Mega",
+        "lat": 25.551788,
+        "lng": 51.439281,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Garrettstown, IE",
+        "lat": 51.64498,
+        "lng": -8.58805,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Elfordstown, IE",
+        "lat": 51.9532,
+        "lng": -8.17416,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Isle of Man, UK",
+        "lat": 54.13909,
+        "lng": -4.49728,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Goonhilly, UK",
+        "lat": 50.04964,
+        "lng": -5.18143,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Chalfont Grove, UK",
+        "lat": 51.61549,
+        "lng": -0.57577,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Wherstead, UK",
+        "lat": 52.019224,
+        "lng": 1.14354,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Hoo, UK",
+        "lat": 51.419024,
+        "lng": 0.573512,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Woodwalton, UK",
+        "lat": 52.404967,
+        "lng": -0.219117,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Morn Hill, UK",
+        "lat": 51.060168,
+        "lng": -1.263883,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Fawley, UK",
+        "lat": 50.823297,
+        "lng": -1.337705,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Bristol, UK",
+        "lat": 51.7058,
+        "lng": -2.401694,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Isle of Man, UK | Mega",
+        "lat": 54.138964,
+        "lng": -4.496817,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Villenave d\u2019Ornon, FR",
+        "lat": 44.78096,
+        "lng": -0.53738,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Lepe, ES",
+        "lat": 37.255557,
+        "lng": -7.236135,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Villarejo de Salvanes, ES",
+        "lat": 40.16758,
+        "lng": -3.2869,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Ibi, ES",
+        "lat": 38.60842,
+        "lng": -0.6007,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Marsala, IT",
+        "lat": 37.794324,
+        "lng": 12.493115,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Foggia, IT",
+        "lat": 41.432803,
+        "lng": 15.658572,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Villamaggiore, IT",
+        "lat": 45.318522,
+        "lng": 9.187329,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Frankfurt, DE",
+        "lat": 50.3298,
+        "lng": 8.47082,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Aerzen, DE",
+        "lat": 52.060989,
+        "lng": 9.328231,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Wola Krobowska, PL",
+        "lat": 51.86417,
+        "lng": 20.92105,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Kaunas, LT",
+        "lat": 54.87,
+        "lng": 24.01,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Muallim, TR",
+        "lat": 40.78875,
+        "lng": 29.50939,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Covilha, PT",
+        "lat": 40.265294,
+        "lng": -7.478251,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Hoofddorp, NL (GSN#105)",
+        "lat": 52.290758,
+        "lng": 4.686589,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Plana, BG",
+        "lat": 42.482909,
+        "lng": 23.44491,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Milan, IT | Mega",
+        "lat": 45.475003,
+        "lng": 9.038742,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Stolnik, BG | Mega",
+        "lat": 42.72231,
+        "lng": 23.616678,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Sofia, BG",
+        "lat": 42.67197,
+        "lng": 23.383992,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Loeches (Madrid), ES | Mega",
+        "lat": 40.400965,
+        "lng": -3.405882,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Santa Olalla, ES",
+        "lat": 40.025428,
+        "lng": -4.467699,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Gelida, ES",
+        "lat": 41.438667,
+        "lng": 1.862452,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Aflenz, OS | Mega",
+        "lat": 47.553232,
+        "lng": 15.292154,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Leuk, CH",
+        "lat": 46.317491,
+        "lng": 7.646044,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Killala, IE",
+        "lat": 54.194077,
+        "lng": -9.2114458,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Troms\u00f8, NO - TT&C (TR1)",
+        "lat": 69.661961,
+        "lng": 18.941619,
+        "alt": 0.0
+    },
+    {
+        "continent": "Europe",
+        "name": "Villamaggiore-2, IT | Mega expansion",
+        "lat": 45.313654,
+        "lng": 9.184644,
+        "alt": 0.0
+    }
+]
